@@ -10,3 +10,4 @@ Guide for Debian/Ubuntu-based distributions. If you're using a Arch-based distri
   <li>sudo apt install python-pip</li>
   <li>pip install pyscreenshot</li>
   <li>pip install pyscreenshot</li>
+![Linux-Screen-Recorder](showcase.gif)
