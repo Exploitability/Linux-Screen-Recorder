@@ -9,4 +9,4 @@ Prerequisites:
   <li>sudo apt-get install python-pil</li>
   <li>sudo apt install python-pip</li>
   <li>pip install pyscreenshot</li>
-  <li>pip install pyscreenshot</li></center>
+ </center>
