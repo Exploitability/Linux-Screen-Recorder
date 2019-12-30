@@ -9,7 +9,6 @@
 #sudo apt-get install python-pil
 #sudo apt install python-pip
 #pip install pyscreenshot
-#pip install pyscreenshot
 
 
 from Tkinter import *
