@@ -2,7 +2,7 @@
 #If you're looking for a skilled Python, C++, Java, C#, or JavaScript developer
 #Contact me: twitter.com/@ARPPoisoning
 
-#Guide for Debian/Ubuntu-based distributions. If you're using a Arch-based distribution, replace apt-get with pacman.
+#Guide for Debian/Ubuntu-based distributions. If you're using a Arch-based distribution, replace apt-get with pacman -S.
 #Prequisites:
 #sudo apt-get install ffmpeg
 #sudo apt-get install python-tk
